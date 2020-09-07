@@ -1,0 +1,32 @@
+.nav{
+  grid-area: n;
+  background-color: aqua;
+  }
+  
+  .item{
+    color: white;
+  }
+
+  .item a{
+    color: white;
+    text-decoration: none;
+  }
+
+  .item a.active{
+    color: gold;
+  }
+
+
+  /*friends*/
+
+
+  .friendsBar{
+    width: 100%;
+    margin-top: 200px;
+  }
+
+  .friendItem img{
+    width: 60px;
+    border-radius: 50%;
+    height: 60px;
+  }
